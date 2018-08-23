@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Wintail/WinTail/obj/Debug
+/Wintail/WinTail/bin/Debug
+/Wintail/WinTail/.vs/WinTail/v15
